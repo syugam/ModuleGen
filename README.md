@@ -1,0 +1,1 @@
+**This is a VBA Project to make a generator to generate C soure code in a module framework**
